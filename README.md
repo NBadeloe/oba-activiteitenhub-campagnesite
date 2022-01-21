@@ -4,8 +4,9 @@
 
 ## Beschrijving
 <!-- Voeg een link toe naar Github Pages 🌐-->
+[OBA activiteitenhub campagne](http://oba-activiteitenhub-campagnesite.student.fdnd.nl/)
 We moesten  een campagne site maken voor de activiteiten Hub van de Oba. Het website bestaat uit paar onderdelen,
-- Navbaar die bevat aan logo van de oba.
+- Navbar die bevat aan logo van de oba.
 - Activiteiten: een artikel met algemene uitleg over de activiteiten. daarnaast afbeling die help om de inhoud begrijben.
 - Tap met illustraties van de activiteiten van de obe.
 -Uitgelichte activiteiten:staat er drie activiteiten met voledig uitleg en buttons daar kunt u zich aanmelden om in dit activiteiten delen, er ook coronamaatregel waarop toepassen binnen de oba gebouw.
