@@ -33,9 +33,21 @@ We moesten  een campagne site maken voor de activiteiten Hub van de Oba. Het web
 - 🧍 CSS3
 ## Installatie
 
-## Gebruik
+Installeren met HTTPS
 
-##🥇 Bronnen
+```
+git clone https://github.com/NBadeloe/oba-activiteitenhub-campagnesite.git
+cd oba-activiteitenhub-campagnesite
+```
+## Gebruik
+Installeren met HTTPS
+
+```
+git clone https://github.com/NBadeloe/oba-activiteitenhub-campagnesite.git
+cd oba-activiteitenhub-campagnesite
+```
+
+## 🥇 Bronnen
 
 🌊 Unsplash
 
